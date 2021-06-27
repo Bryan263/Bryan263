@@ -1,0 +1,11 @@
+1. Kalau mau coba appnya bisa di coba di localhost karena saya menggunakan db local yang digunakan untuk 
+view dari my pokemon list yang ketika di refresh tidak hilang, karna tidak hilang maka saya beranggapan harus menggunakan
+database untuk menyimpannya.
+
+2.frontend di localhost:3000 backend di localhost:3001(passing apinya).
+
+3.saya tidak melakukan hosting karena saya kurang tahu bagaimana hosting gratis website yang dinamis
+sedangkan kalo menggunakan github dll itu hanya website static saja yang free.
+
+4.untuk lebih jelasnya saya akan mencantumkan vidio untuk aplikasi pokemon ini.
+
