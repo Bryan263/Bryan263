@@ -45,7 +45,8 @@ const MyPokemonList = (props) =>{
       
         setPokemon(pokemon.map((pokemon)=>{
             return pokemon.pokemonID == pokemonID ? 
-            {pokemonName : pokemon.pokemonName, 
+            {pokemonName : pokemon.pokemonName,
+            pokemonID : pokemon.pokemonID,     
             pokemonHeight : pokemon.pokemonHeight, 
             pokemonWeight : pokemon.pokemonWeight, 
             pokemonType : pokemon.pokemonType,
